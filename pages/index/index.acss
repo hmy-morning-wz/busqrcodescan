@@ -1,0 +1,10 @@
+.container button {
+  width: 90%;
+}
+.container .cell {
+  width: 90%;
+  word-break: break-all;
+  word-wrap: break-word;
+  margin-top:32rpx; 
+  background: white; 
+}

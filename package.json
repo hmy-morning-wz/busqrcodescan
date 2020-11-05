@@ -1,0 +1,18 @@
+{
+  "name": "busqrcodescan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "ecurve": "^1.0.6",
+    "jsbn": "^1.1.0",
+    "mini-base64": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
